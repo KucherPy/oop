@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Denis\\Desktop\\C#\\C#.csproj": {}
+    "D:\\C#\\C#.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Denis\\Desktop\\C#\\C#.csproj": {
+    "D:\\C#\\C#.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Denis\\Desktop\\C#\\C#.csproj",
+        "projectUniqueName": "D:\\C#\\C#.csproj",
         "projectName": "C#",
-        "projectPath": "C:\\Users\\Denis\\Desktop\\C#\\C#.csproj",
+        "projectPath": "D:\\C#\\C#.csproj",
         "packagesPath": "C:\\Users\\Denis\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Denis\\Desktop\\C#\\obj\\",
+        "outputPath": "D:\\C#\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Denis\\AppData\\Roaming\\NuGet\\NuGet.Config"
