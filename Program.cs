@@ -5,7 +5,7 @@ class Program
 {
     static void Main(string[] args)
     {
-        // Создание тестовых данных
+        
         List<Course> courses = new List<Course>
         {
             new Course("Course1"),
@@ -32,7 +32,7 @@ class Program
             new Teacher("Teacher5", new List<Discipline> { new Discipline("Computer Science"), new Discipline("English") })
         };
 
-        // Вывод информации о студентах и преподавателях
+        
         foreach (var student in students)
         {
             student.GetInfo();
